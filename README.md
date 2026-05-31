@@ -15,6 +15,11 @@ A Telegram bot that logs team expenses to Google Sheets from text or a
 photo of a receipt, with automatic categorization and instant alerts to
 leadership on large spends.
 
+### [Lead Capture & Follow-up System](cases/02-lead-capture)
+A workflow that captures web-form leads, notifies the sales team in
+Telegram with a one-tap "Take Lead" button, and escalates with timed
+reminders until someone owns the lead.
+
 ## Stack
 n8n · REST APIs & webhooks · OpenAI · Google Sheets API · Telegram Bot API · Docker
 
