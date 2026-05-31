@@ -20,6 +20,11 @@ A workflow that captures web-form leads, notifies the sales team in
 Telegram with a one-tap "Take Lead" button, and escalates with timed
 reminders until someone owns the lead.
 
+### [AI Content Monitoring & Digest](cases/03-content-aggregation)
+A scheduled pipeline that monitors multiple content sources, uses an LLM
+to classify and score each item for relevance, removes duplicates, and
+delivers a curated daily digest to Telegram.
+
 ## Stack
 n8n · REST APIs & webhooks · OpenAI · Google Sheets API · Telegram Bot API · Docker
 
